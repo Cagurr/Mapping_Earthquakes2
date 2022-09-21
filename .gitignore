@@ -5,3 +5,4 @@ Mapping_Multi_Points/js/config.js
 Mapping_Lines/js/config.js
 Mapping_GeoJSON_Points/js/config.js
 Mapping_GeoJSON_LineStrings/js/config.js
+Mapping_GeoJSON_Polygons/js/config.js

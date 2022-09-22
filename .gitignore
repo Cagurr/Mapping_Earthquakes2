@@ -4,3 +4,7 @@ Mapping_Single_Points/js/config.js
 Mapping_Multi_Points/js/config.js
 Mapping_Lines/js/config.js
 Mapping_GeoJSON_Points/js/config.js
+Mapping_GeoJSON_Lines/js/config.js
+Mapping_GeoJSON_Polygons/js/config.js
+Earthquake_past7days/js/config.js
+Earthquake_Challenge/js/config.js
